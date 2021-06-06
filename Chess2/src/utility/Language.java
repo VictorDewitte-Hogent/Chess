@@ -33,10 +33,7 @@ public class Language {
             lang = "en";
             country = "UK";
         }
-        else if(keuze == 3) {
-            lang = "fr";
-            country = "FR";
-        }
+        
         else {
             lang = "nl";
             country = "BE";
